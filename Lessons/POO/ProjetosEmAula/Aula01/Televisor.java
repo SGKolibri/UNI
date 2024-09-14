@@ -35,9 +35,7 @@ public class Televisor {
         return modelo;
     }
 
-    public void setModelo(String modelo) {
-        this.modelo = modelo;
-    }
+    
 
     public int getTamanho() {
         return tamanho;
